@@ -1,67 +1,15 @@
 <sudamerica>
-   <pais>
-      <nombre>Argentina</nombre>
-      <poblacion>42890368</poblacion>
-      <superficie>2780400</superficie>
-   </pais>
-   <pais>
-      <nombre>Bolivia</nombre>
-      <poblacion>10888000</poblacion>
-      <superficie>1098581</superficie>
-   </pais>
-   <pais>
-      <nombre>Brasil</nombre>
-      <poblacion>202450649</poblacion>
-      <superficie>8514877</superficie>
-   </pais>
-   <pais>
-      <nombre>Chile</nombre>
-      <poblacion>18261884</poblacion>
-      <superficie>756102</superficie>
-   </pais>
-   <pais>
-      <nombre>Colombia</nombre>
-      <poblacion>45520000</poblacion>
-      <superficie>1141748</superficie>
-   </pais>
-   <pais>
-      <nombre>Ecuador</nombre>
-      <poblacion>16298217</poblacion>
-      <superficie>283561</superficie>
-   </pais>
-   <pais>
-      <nombre>Guyana</nombre>
-      <poblacion>761000</poblacion>
-      <superficie>214969</superficie>
-   </pais>
-   <pais>
-      <nombre>Guayana Francesa</nombre>
-      <poblacion>187000</poblacion>
-      <superficie>83534</superficie>
-   </pais>
-   <pais>
-      <nombre>Paraguay</nombre>
-      <poblacion>6953646</poblacion>
-      <superficie>406752</superficie>
-   </pais>
-   <pais>
-      <nombre>Perú</nombre>
-      <poblacion>32252018</poblacion>
-      <superficie>1285216</superficie>
-   </pais>
-   <pais>
-      <nombre>Surinam</nombre>
-      <poblacion>524000</poblacion>
-      <superficie>163820</superficie>
-   </pais>
-   <pais>
-      <nombre>Uruguay</nombre>
-      <poblacion>3372000</poblacion>
-      <superficie>176215</superficie>
-   </pais>
-   <pais>
-      <nombre>Venezuela</nombre>
-      <poblacion>31028337</poblacion>
-      <superficie>916445</superficie>
-   </pais>
+   <pais poblacion="42890368" superficie="2780400">Argentina</pais>
+   <pais poblacion="10888000" superficie="1098581">Bolivia</pais>
+   <pais poblacion="202450649" superficie="8514877">Brasil</pais>
+   <pais poblacion="18261884" superficie="756102">Chile</pais>
+   <pais poblacion="45520000" superficie="1141748">Colombia</pais>
+   <pais poblacion="16298217" superficie="283561">Ecuador</pais>
+   <pais poblacion="761000" superficie="214969">Guyana</pais>
+   <pais poblacion="187000" superficie="83534">Guayana Francesa</pais>
+   <pais poblacion="6953646" superficie="406752">Paraguay</pais>
+   <pais poblacion="32252018" superficie="1285216">Perú</pais>
+   <pais poblacion="524000" superficie="163820">Surinam</pais>
+   <pais poblacion="3372000" superficie="176215">Uruguay</pais>
+   <pais poblacion="31028337" superficie="916445">Venezuela</pais>
 </sudamerica>
