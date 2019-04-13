@@ -1,68 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-   <element>
+<sudamerica>
+   <pais>
       <nombre>Argentina</nombre>
       <poblacion>42890368</poblacion>
       <superficie>2780400</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Bolivia</nombre>
       <poblacion>10888000</poblacion>
       <superficie>1098581</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Brasil</nombre>
       <poblacion>202450649</poblacion>
       <superficie>8514877</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Chile</nombre>
       <poblacion>18261884</poblacion>
       <superficie>756102</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Colombia</nombre>
       <poblacion>45520000</poblacion>
       <superficie>1141748</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Ecuador</nombre>
       <poblacion>16298217</poblacion>
       <superficie>283561</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Guyana</nombre>
       <poblacion>761000</poblacion>
       <superficie>214969</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Guayana Francesa</nombre>
       <poblacion>187000</poblacion>
       <superficie>83534</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Paraguay</nombre>
       <poblacion>6953646</poblacion>
       <superficie>406752</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Perú</nombre>
       <poblacion>32252018</poblacion>
       <superficie>1285216</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Surinam</nombre>
       <poblacion>524000</poblacion>
       <superficie>163820</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Uruguay</nombre>
       <poblacion>3372000</poblacion>
       <superficie>176215</superficie>
-   </element>
-   <element>
+   </pais>
+   <pais>
       <nombre>Venezuela</nombre>
       <poblacion>31028337</poblacion>
       <superficie>916445</superficie>
-   </element>
-</root>
+   </pais>
+</sudamerica>
