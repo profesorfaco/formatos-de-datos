@@ -1,5 +1,9 @@
 # formatos-de-datos
 
+### ¿Qué es un dato?
+
+https://es.schoolofdata.org/que-es-un-dat/
+
 
 
 ### Ejercicios con p5.js
