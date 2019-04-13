@@ -10,9 +10,6 @@ También en castellano, con computadoras, un **dato es información dispuesta de
 
 Pero hay una condición de la palabra *data* que ofrece una irresistible carnada a la teorización: *plural in form but singular or plural in construction* (Merriam-Webster)
 
-https://es.schoolofdata.org/que-es-un-dat/
-
-
 
 ### Ejercicios con p5.js
 
@@ -37,3 +34,8 @@ Para entender el uso de datos en JavaScript:
 - 008 - CSV - https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T
 
 - 009 - XML - https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC
+
+
+### Más referencias
+
+- Escuela de datos: https://es.schoolofdata.org/que-es-un-dat/
