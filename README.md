@@ -40,7 +40,7 @@ Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría
 |:----------|:-----------------|:---------------|
 | Chile     | 18261884         | 756102         |
 
-Gracias a la tabla, que es [un método de visualización de datos](http://www.visual-literacy.org/periodic_table/periodic_table.html), podemos utilizar el mismo número como información sobre algo concreto: La población en Chile.
+Gracias a la tabla, que podríamos considerar [un método de visualización de datos](http://www.visual-literacy.org/periodic_table/periodic_table.html), podemos utilizar el número 18261884 como información sobre algo concreto: La población en Chile. Luego, si tales datos estuvieran en una hoja de cálculo, bastaría con escribir `=B2/C2` en una celda, para obtener la densidad de población, con un resultado aproximado a 24 hab/km².
 
 - - - - - - - - - - - - - - - - -
 
