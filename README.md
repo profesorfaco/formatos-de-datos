@@ -1,6 +1,6 @@
 # formatos-de-datos
 
-### ¿QUÉ ES UN DATO?
+### DATOS
 
 **El contexto de *dataviz* nos exige examinar cuidadosamente la idea que tenemos respecto de un "dato"**.
 
@@ -32,15 +32,33 @@ Pero en la traducción de ambas frases al castellano tendríamos que usar el plu
 
 - - - - - - - - - - - - - - - - 
 
-### DATOS
+### TIPO DE DATO
 
-Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría inútil. Pero sería distinto de la siguiente manera: 
+Si compartiera con ustedes el número entero 18261884 (*integer*), sin contexto alguno, resultaría inútil. Pero sería distinto de la siguiente manera: 
 
 | País      |  Población       | Superficie     |
 |:----------|:-----------------|:---------------|
 | Chile     | 18261884         | 756102         |
 
-Gracias a la tabla, que podríamos considerar [un método de visualización de datos](http://www.visual-literacy.org/periodic_table/periodic_table.html), podemos utilizar el número 18261884 como información sobre algo concreto: La población en Chile. Luego, si tales datos estuvieran en una hoja de cálculo, bastaría con escribir `=B2/C2` en una celda, para obtener la densidad de población, con un resultado aproximado a 24 hab/km².
+Gracias a la [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), podemos utilizar tal número como información sobre algo concreto: La población en Chile. Luego, si tales datos estuvieran en una hoja de cálculo, bastaría con escribir `=B2/C2` en una celda, para obtener la densidad de población, que resulta un número de coma flotante 24,15267252 (*floating point*).
+
+En la tabla, entregando contexto y sentido, también hay palabras. Cada una de ellas se forma con una serie de caracteres (*characters*) dentro de una cadena (*string*).
+
+Con lo recién expuesto, podrá comprenderse la razón de que Java, un lenguaje de programación, utilice las siguientes palabras reservadas para apuntar al tipo de dato que será asignado a una determinada variable que, en el siguiente ejemplo, denominaremos "x":
+
+```
+int x = 18261884;
+float x = 24.15267252;
+char x = "P";
+String x = "Superficie";
+```
+
+Por norma general, el contenido numérico no utiliza comillas. El contenido de caracteres sí. Aunque habría que considerar un tipo de dato primitivo, que es el Booleano, que puede escribirse de una de las siguientes maneras en Java: 
+
+```
+boolean x = true;
+boolean y = false;
+```
 
 - - - - - - - - - - - - - - - - -
 
