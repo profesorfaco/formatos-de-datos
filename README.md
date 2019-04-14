@@ -62,7 +62,7 @@ boolean y = false;
 
 - - - - - - - - - - - - - - - - -
 
-### VARIABLES
+### VARIABLES EN JAVASCRIPT
 
 Para entender el uso de datos en JavaScript: 
 
