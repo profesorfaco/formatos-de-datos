@@ -52,7 +52,7 @@ Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría
 
 Gracias a la [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), ustedes cuentan con pistas que los orientan a la utilización de tal número como información sobre algo concreto: La población en Chile. 
 
-Además del dato de la población de Chile, cuentan con la superficie de su territorio. Si dividimos el primer dato por el segundo, obtenemos un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella división es 24,15267252.
+Además del dato de la población de Chile, contamos con la superficie de su territorio. Si dividimos el primer dato por el segundo, obtenemos un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella división es 24,15267252.
 
 Los números 18261884 y 24,15267252 tienen una diferencia que corresponde señalar al momento de disponerlos para su tratamiento en computación: 
 
@@ -62,13 +62,13 @@ Los números 18261884 y 24,15267252 tienen una diferencia que corresponde señal
 
 Y así como se puden reconocer distintos tipos de número, podemos decir que:
 
-- **"A"** es un `char`: Del inglés *character*.
-
 - **true** es una de dos opciones de dato lógico en un `bool`: Del inglés [*Boolean*](https://es.wikipedia.org/wiki/Tipo_de_dato_l%C3%B3gico). 
 
-Podrán notar que en el tipo de dato booleano y numérico no se usaron comillas, pero en el caso de los caracteres sí se utiliza. 
+- **"A"** es un `char`: Del inglés *character*.
 
-Si sospechan que la utilización de `int`, `bool`, `char` y `float` está siguiendo alguna lógica, están en lo cierto: Esas son palabras reservadas en C++ para declarar que una variable (un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte) almacenará un [tipo de dato básico](https://www.javatpoint.com/cpp-data-types). 
+Podrán notar que en el tipo de dato numérico y booleano no se usaron comillas, pero en el caso del caracter sí se utiliza. 
+
+Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para declarar que una variable (un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte) almacenará un [tipo de dato básico](https://www.javatpoint.com/cpp-data-types). 
 
 Más información:
 
