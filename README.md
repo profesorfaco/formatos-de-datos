@@ -28,7 +28,7 @@ Tal definición de *data* está a la base de la pirámide DIKW (Data, Informatio
 
 ![DIKW pyramid](https://eight2late.files.wordpress.com/2011/03/dikw.jpg)
 
-Para mayor información sobre la *DIKW pyramid*, favor consultar:
+**Para mayor información sobre la *DIKW pyramid*, favor consultar:**
 
 - Ackoff - From Data to Wisdom - http://faculty.ung.edu/kmelton/documents/datawisdom.pdf
 
@@ -70,20 +70,21 @@ Podrán notar que en el tipo de dato numérico y booleano no se usaron comillas,
 
 Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para declarar que una variable (un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte) almacenará un [tipo de dato básico](https://www.javatpoint.com/cpp-data-types). 
 
-Más información:
+**Para mayor información respecto de los tipos de datos, favor consultar:**
 
-- http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
+- Tipos de datos en C - http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
 
-- https://beginnersbook.com/2017/08/cpp-data-types/
+- Tipos de datos en C++ - https://beginnersbook.com/2017/08/cpp-data-types/
 
-- https://www.javatpoint.com/java-data-types
+- Tipos de datos en Java - https://www.javatpoint.com/java-data-types
 
+- Tipos de datos en Processing - http://processing-spain.blogspot.com/2015/09/42-creando-variables.html
 
 - - - - - - - - - - - - - - - - -
 
 ### DATOS EN JAVASCRIPT
 
-Los datos son contenidos en las variables. Aunque todas las variables de JavaScript se crean de la misma forma (mediante la palabra reservada `var`), corresponde poner atención a lo que vaya a contener:
+Los datos son contenidos en las variables. Aunque todas las variables de JavaScript se crean de la misma forma (mediante la palabra reservada `var`), corresponde poner atención en algunos símbolos que se utilizan para la asignación de contenido:
 
 ```
 var a = 18261884;
@@ -96,16 +97,16 @@ var d = "Falso como beso de Judas";
 
 var e = ["Pedro", "Juan", "Santiago", "Santiago el Menor", "Felipe", "Bartolomé", "Judas Tadeo", "Simón", "Andrés", "Mateo", "Tomás", "Judas Iscariote"];
 
-var f = { mom: "Marge", dad:"Homer", children:["Bart","Lisa","Maggie"]};
+var f = { mom: "Luann", dad:"Kirk", children:"Milhouse"};
 ```
 
-Las variables `a`, `b` y `c` no requieren comillas. La variable `d`, que contiene una cadena de caracteres (*string*) usa comillas. La variable `e`, que contiene un arreglo, usa paréntesis de cuadrado y cada elemento, por tratarse de un *string*, usa comillas. La variable `f`que contiene un objeto, usa paréntesis de llave que en su interior contiene pares separados por comas.
+Las variables `a`, `b` y `c` no requieren comillas. La variable `d`, que contiene una cadena de caracteres (*string*) usa comillas. La variable `e`, que contiene un arreglo, usa paréntesis cuadrado y cada elemento, por tratarse de un *string*, usa comillas. La variable `f`que contiene un objeto, usa paréntesis de llave que en su interior contiene pares separados por comas.
 
-Para avanzar en el uso de datos, y hacer una introducción a las herramientas para el proceso de visualización, haremos una exploración doble:
+Para avanzar en el uso de datos, y hacer una introducción a las herramientas para el proceso de visualización, haremos una exploración que dividiremos en 3 partes:
 
 - Revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/).
 
-- Aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), con los ejercicios:
+- Luego aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), con los ejercicios:
 
   - 000 - un número - https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb
 
@@ -120,6 +121,8 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
   - 005 - objeto - https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc
 
   - 006 - mix - https://editor.p5js.org/profesorfaco/sketches/EraL9UErk
+  
+- Tomaremos un descanso y luego volveremos al [editor en línea de p5.js](https://editor.p5js.org/), para avanzar a los ejercicios:
 
   - 007 - sudamerica - https://editor.p5js.org/profesorfaco/sketches/jkRGOch8N
 
