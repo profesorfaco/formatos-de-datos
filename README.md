@@ -21,7 +21,7 @@ Pero en la traducción de ambas frases al castellano tendríamos que usar el plu
 
 > **Data are symbols that represent the properties of objects and events. Information consists of processed data, the processing directed at increasing its usefulness**. For example, census takers collect data. The Bureau of the Census processes that data, converting it into information that is presented in the numerous tables published in the Statistical Abstracts. Like data, information also represents the properties of objects and events, but it does so more compactly and usefully than data. **The difference between data and information is functional, not structural**.
 
-Tales definición de *data* está a la base de la pirámide DIKW (Data, Information, Knowledge, Wisdom):
+Tal definición de *data* está a la base de la pirámide DIKW (Data, Information, Knowledge, Wisdom):
 
 ![DIKW pyramid](https://eight2late.files.wordpress.com/2011/03/dikw.jpg)
 
@@ -41,23 +41,17 @@ Para mayor información sobre la *DIKW pyramid*, favor consultar:
 
 ### TIPO DE DATO
 
-Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría inútil. 
-
-Pero sería distinto de la siguiente manera: 
+Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría inútil. Pero sería distinto de la siguiente manera: 
 
 | País      |  Población       | Superficie     |
 |:----------|:-----------------|:---------------|
 | Chile     | 18261884         | 756102         |
 
-Gracias a la [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), tenemos pistas que nos orientan a la utilización de tal número como información sobre algo concreto: La población en Chile. 
+Gracias a la [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), ustedes cuentan con pistas que los orientan a la utilización de tal número como información sobre algo concreto: La población en Chile. 
 
-Además del dato de la población de Chile, tengo la superficie de su territorio. Si divido el primer dato por el segundo, obtengo un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella operación es otro número 24,15267252.
+Además del dato de la población de Chile, cuentan con la superficie de su territorio. Si dividimos el primer dato por el segundo, obtengo un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella operación es otro número 24,15267252.
 
-| País      |  Población       | Superficie     | Densidad de la población |
-|:----------|:-----------------|:---------------|:-------------------------|
-| Chile     | 18261884         | 756102         | 24,15267252              |
-
-A pesar de que 18261884 y 24,15267252 son números, para disponerla de manera adecuada para su tratamiento en computación, habría que reconocer que son distintos tipos de números: 
+A pesar de que 18261884 y 24,15267252 son números, corresponde diferenciarlos para disponer a cada uno, de manera adecuada, para su tratamiento en computación: 
 
 - **18261884** es un `int`: Del inglés *integer*.  
 
@@ -67,42 +61,67 @@ Y así como se puden reconocer distintos tipos de número, podemos decir que:
 
 - **"A"** es un `char`: Del inglés *character*.
 
-- **true** es una de dos opciones de dato lógico en un `bool`: Del inglés *Boolean*. 
+- **true** es una de dos opciones de dato lógico en un `bool`: Del inglés [*Boolean*](https://es.wikipedia.org/wiki/Tipo_de_dato_l%C3%B3gico). 
 
 Podrán notar que en el tipo de dato booleano y numérico no se usaron comillas, pero en el caso de los caracteres sí se utiliza. 
 
-Si sospechan que la utilización de `int`, `bool`, `char` y `float` está siguiendo alguna lógica, están en lo cierto: Esas son las palabras reservadas en C++ para la declaración del tipo de dato que será almacenado en una variable (un espacios reservados en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte).
+Si sospechan que la utilización de `int`, `bool`, `char` y `float` está siguiendo alguna lógica, están en lo cierto: Esas son palabras reservadas en C++ para declarar que una variable (un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte) almacenará un [tipo de dato básico](https://www.javatpoint.com/cpp-data-types). 
+
+Más información:
+
+- http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
+
+- https://beginnersbook.com/2017/08/cpp-data-types/
+
+- https://www.javatpoint.com/java-data-types
 
 
 - - - - - - - - - - - - - - - - -
 
 ### VARIABLES EN JAVASCRIPT
 
-Para entender el uso de datos en JavaScript: 
+Aunque todas las variables de JavaScript se crean de la misma forma (mediante la palabra reservada `var`), tiene diferencias según lo que vaya a contener: 
 
-- 000 - un número - https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb
+```
+var a = 18261884;
 
-- 001 - un número que incrementa - https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs
+var b = 24,15267252;
 
-- 002 - ídem - https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj
+var c = false;
 
-- 003 - cadenas de caracteres - https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC
+var d = "Falso como beso de Judas";
 
-- 004 - arreglo - https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k
+var e = ["Simón", "Tomás", "Bartolomé", "Juan", "Andrés", "Pedro", "Santiago el Anciano", "Santiago el Menor", "Felipe", "Judas Iscariote", "Judas Tadeo"]
 
-- 005 - objeto - https://editor.p5js.org/profesorfaco/sketches/jkRGOch8N
+var f = { mom: "Marge", dad:"Homer", children:["Bart","Lisa","Maggie"] }
+```
 
-- 006 - sudamerica - https://editor.p5js.org/profesorfaco/sketches/jkRGOch8N
+Las variables `a`, `b` y `c`no requieren comillas. La variable `d`, que contiene una cadena de caracteres (String) usa comillas. La variable `e`, que contiene un arreglo, usa paréntesis de cuadrado. La variable `f`que contiene un objeto, usa paréntesis de llave.
 
-- 007 - JSON - https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ
+Para entender el uso de datos en JavaScript tenemos 2 vías de exploración: 
 
-- 008 - CSV - https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T
+- Revisando página web contenida en este repositorio: https://profesorfaco.github.io/datos/
 
-- 009 - XML - https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC
+- Aprovechando el editor en línea de p5.js, y los ejercicios:
+
+  - 000 - un número - https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb
+
+  - 001 - un número que incrementa - https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs
+
+  - 002 - ídem - https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj
+
+  - 003 - cadenas de caracteres - https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC
+
+  - 004 - arreglo - https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k
+
+  - 005 - objeto - https://editor.p5js.org/profesorfaco/sketches/jkRGOch8N
+
+  - 006 - sudamerica - https://editor.p5js.org/profesorfaco/sketches/jkRGOch8N
+
+  - 007 - JSON - https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ
+
+  - 008 - CSV - https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T
+
+  - 009 - XML - https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC
 
 
-- - - - - - - - - - - - - - - - -
-
-### MÁS INFORMACIÓN
-
-- Escuela de datos: https://es.schoolofdata.org/que-es-un-dat/
