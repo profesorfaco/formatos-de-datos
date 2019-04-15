@@ -52,9 +52,9 @@ Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría
 
 Gracias a la [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), ustedes cuentan con pistas que los orientan a la utilización de tal número como información sobre algo concreto: La población en Chile. 
 
-Además del dato de la población de Chile, cuentan con la superficie de su territorio. Si dividimos el primer dato por el segundo, obtengo un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella operación es otro número 24,15267252.
+Además del dato de la población de Chile, cuentan con la superficie de su territorio. Si dividimos el primer dato por el segundo, obtenemos un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella división es 24,15267252.
 
-A pesar de que 18261884 y 24,15267252 son números, corresponde diferenciarlos para disponer a cada uno, de manera adecuada, para su tratamiento en computación: 
+Los números 18261884 y 24,15267252 tienen una diferencia que corresponde señalar al momento de disponerlos para su tratamiento en computación: 
 
 - **18261884** es un `int`: Del inglés *integer*.  
 
