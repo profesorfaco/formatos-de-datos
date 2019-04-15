@@ -103,21 +103,21 @@ Las variables `a`, `b` y `c` no requieren comillas. La variable `d`, que contien
 
 Para avanzar en el uso de datos, y hacer una introducción a las herramientas para el proceso de visualización, haremos una exploración doble:
 
-- Revisaremos las páginas contenidas en este repositorio: https://profesorfaco.github.io/datos/
+- Revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/).
 
-- Aprovecharemos el editor en línea de p5.js, con los ejercicios:
+- Aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), con los ejercicios:
 
   - 000 - un número - https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb
 
   - 001 - un número que incrementa - https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs
 
-  - 002 - ídem - https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj
+  - 002 - un número que incrementa - https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj
 
   - 003 - cadenas de caracteres - https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC
 
   - 004 - arreglo - https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k
 
-  - 005 - objeto - https://editor.p5js.org/profesorfaco/sketches/jkRGOch8N
+  - 005 - objeto - https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc
 
   - 006 - sudamerica - https://editor.p5js.org/profesorfaco/sketches/jkRGOch8N
 
