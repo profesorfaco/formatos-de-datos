@@ -78,9 +78,9 @@ Más información:
 
 - - - - - - - - - - - - - - - - -
 
-### VARIABLES EN JAVASCRIPT
+### DATOS EN JAVASCRIPT
 
-Aunque todas las variables de JavaScript se crean de la misma forma (mediante la palabra reservada `var`), tiene diferencias según lo que vaya a contener: 
+Los datos son contenidos en las variables. Aunque todas las variables de JavaScript se crean de la misma forma (mediante la palabra reservada `var`), corresponde poner atención a lo que vaya a contener:
 
 ```
 var a = 18261884;
@@ -91,18 +91,18 @@ var c = false;
 
 var d = "Falso como beso de Judas";
 
-var e = ["Simón", "Tomás", "Bartolomé", "Juan", "Andrés", "Pedro", "Santiago el Anciano", "Santiago el Menor", "Felipe", "Judas Iscariote", "Judas Tadeo"]
+var e = ["Pedro", "Juan", "Santiago", "Santiago el Menor", "Felipe", "Bartolomé", "Judas Tadeo", "Simón", "Andrés", "Mateo", "Tomás", "Judas Iscariote"]
 
-var f = { mom: "Marge", dad:"Homer", children:["Bart","Lisa","Maggie"] }
+var f = { mom: "Marge", dad:"Homer", children:["Bart","Lisa","Maggie"]}
 ```
 
-Las variables `a`, `b` y `c`no requieren comillas. La variable `d`, que contiene una cadena de caracteres (String) usa comillas. La variable `e`, que contiene un arreglo, usa paréntesis de cuadrado. La variable `f`que contiene un objeto, usa paréntesis de llave.
+Las variables `a`, `b` y `c` no requieren comillas. La variable `d`, que contiene una cadena de caracteres (*string*) usa comillas. La variable `e`, que contiene un arreglo, usa paréntesis de cuadrado y cada elemento, por tratarse de un *string*, usa comillas. La variable `f`que contiene un objeto, usa paréntesis de llave que en su interior contiene pares separados por comas.
 
-Para entender el uso de datos en JavaScript tenemos 2 vías de exploración: 
+Para avanzar en el uso de datos, y hacer una introducción a las herramientas para el proceso de visualización, haremos una exploración doble:
 
-- Revisando página web contenida en este repositorio: https://profesorfaco.github.io/datos/
+- Revisaremos las páginas contenidas en este repositorio: https://profesorfaco.github.io/datos/
 
-- Aprovechando el editor en línea de p5.js, y los ejercicios:
+- Aprovecharemos el editor en línea de p5.js, con los ejercicios:
 
   - 000 - un número - https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb
 
