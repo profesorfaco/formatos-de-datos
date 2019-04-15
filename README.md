@@ -94,9 +94,9 @@ var c = false;
 
 var d = "Falso como beso de Judas";
 
-var e = ["Pedro", "Juan", "Santiago", "Santiago el Menor", "Felipe", "Bartolomé", "Judas Tadeo", "Simón", "Andrés", "Mateo", "Tomás", "Judas Iscariote"]
+var e = ["Pedro", "Juan", "Santiago", "Santiago el Menor", "Felipe", "Bartolomé", "Judas Tadeo", "Simón", "Andrés", "Mateo", "Tomás", "Judas Iscariote"];
 
-var f = { mom: "Marge", dad:"Homer", children:["Bart","Lisa","Maggie"]}
+var f = { mom: "Marge", dad:"Homer", children:["Bart","Lisa","Maggie"]};
 ```
 
 Las variables `a`, `b` y `c` no requieren comillas. La variable `d`, que contiene una cadena de caracteres (*string*) usa comillas. La variable `e`, que contiene un arreglo, usa paréntesis de cuadrado y cada elemento, por tratarse de un *string*, usa comillas. La variable `f`que contiene un objeto, usa paréntesis de llave que en su interior contiene pares separados por comas.
