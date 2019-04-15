@@ -1,7 +1,6 @@
-# Datos | Diplomado en Visualización de Datos v.2019
+# Diplomado en Visualización de Datos v.2019
 
 Formatos de datos + Introducción a herramientas para el proceso de visualización
-
 _
 
 Miércoles 24 de abril
