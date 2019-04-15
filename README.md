@@ -1,10 +1,12 @@
 # Datos para el Diplomado en Visualización de Datos v.2019
 
 Formatos de datos + Introducción a herramientas para el proceso de visualización
+
 _
 
 Miércoles 24 de abril
 18:30 a 21:30 hrs.
+
 _
 
 Profesor Felipe Cortez
