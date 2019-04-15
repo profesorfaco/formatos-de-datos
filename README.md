@@ -119,12 +119,14 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
 
   - 005 - objeto - https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc
 
-  - 006 - sudamerica - https://editor.p5js.org/profesorfaco/sketches/jkRGOch8N
+  - 006 - mix - https://editor.p5js.org/profesorfaco/sketches/EraL9UErk
 
-  - 007 - JSON - https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ
+  - 007 - sudamerica - https://editor.p5js.org/profesorfaco/sketches/jkRGOch8N
 
-  - 008 - CSV - https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T
+  - 008 - JSON - https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ
 
-  - 009 - XML - https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC
+  - 009 - CSV - https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T
+
+  - 010 - XML - https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC
 
 
