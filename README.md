@@ -113,32 +113,32 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
 
 - **Luego aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), para revisar**:
 
-  - una variable conteniendo un número: [wCJrC97zb](https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb)
+  - [wCJrC97zb](https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb): una variable conteniendo un número.
 
-  - una variable conteniendo un número que incrementa: [Jxux74Irs](https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs)
+  - [Jxux74Irs](https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs): una variable conteniendo un número que incrementa.
 
-  - una variable conteniendo dos números que se suman: [K21IBXOzj](https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj)
+  - [K21IBXOzj](https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj): una variable conteniendo dos números que se suman.
 
-  - una variable conteniendo dos [strings](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String) que se concatenan: [_EoptWEIC](https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC)
+  - [_EoptWEIC](https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC): una variable conteniendo dos [strings](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String) que se concatenan.
 
-  - una variable conteniendo un [array](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array): [b8o79kL3k](https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k)
+  - [b8o79kL3k](https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k): una variable conteniendo un [array](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array).
 
-  - una variable conteniendo un [objeto](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics): [mvI9d1djc](https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc)
+  - [mvI9d1djc](https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc): una variable conteniendo un [objeto](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics).
 
-  - una variable conteniendo un ensamblaje: [EraL9UErk](https://editor.p5js.org/profesorfaco/sketches/EraL9UErk)
+  - [EraL9UErk](https://editor.p5js.org/profesorfaco/sketches/EraL9UErk): una variable conteniendo un ensamblaje.
 
 - **Tomaremos un descanso y luego volveremos al [editor en línea de p5.js](https://editor.p5js.org/), para revisar tres formatos para el intercambio de datos: [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas), [JSON](https://www.json.org/json-es.html) y [XML](https://developer.mozilla.org/es/docs/Introducci%C3%B3n_a_XML)**:
 
-  - una variable conteniendo un objeto p5.Table que resulta de la lectura de un [CSV en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.csv), como objeto o arreglo: [JYt_9R75T](https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T)
+  - [JYt_9R75T](https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T): una variable conteniendo un objeto p5.Table que resulta de la lectura de un [CSV en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.csv), como objeto o arreglo.
 
-  - una variable conteniendo un objeto o arreglo que resulta de la lectura de un [JSON en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.json), como objeto o arreglo: [XJSJcAKfh](https://editor.p5js.org/profesorfaco/sketches/XJSJcAKfh)
+  - [XJSJcAKfh](https://editor.p5js.org/profesorfaco/sketches/XJSJcAKfh): una variable conteniendo un objeto o arreglo que resulta de la lectura de un [JSON en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.json), como objeto o arreglo.
 
-  - una variable conteniendo un objeto XML que resulta de la lectura de un [XML en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.xml): [YIGnDZVAC](https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC)
+  - [YIGnDZVAC](https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC): una variable conteniendo un objeto XML que resulta de la lectura de un [XML en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.xml).
 
 - **Para terminar, obtendremos datos de distintas interfaces de programación de aplicaciones (API)**:
 
-  - la API de [Chuck Norris](https://api.chucknorris.io/): [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ)
+  - [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ): la API de [Chuck Norris](https://api.chucknorris.io/)
     
-  - la API de [Indicadores económicos](https://mindicador.cl/): [DvO_4Lucl](https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl)
+  - [DvO_4Lucl](https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl): la API de [Indicadores económicos](https://mindicador.cl/): 
 
-  - la API [OpenWeatherMap](https://openweathermap.org/): [EVA9TKXl_](https://editor.p5js.org/profesorfaco/sketches/EVA9TKXl_)
+  - [EVA9TKXl_](https://editor.p5js.org/profesorfaco/sketches/EVA9TKXl_): la API [OpenWeatherMap](https://openweathermap.org/)
