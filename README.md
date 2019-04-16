@@ -109,36 +109,36 @@ Las variables `a`, `b` y `c` no requieren comillas. La variable `d`, que contien
 
 Para avanzar en el uso de datos, y hacer una introducción a las herramientas para el proceso de visualización, haremos una exploración que dividiremos en 4 partes:
 
-- Primero aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), con los ejercicios:
+- **Primero aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), con los ejercicios**:
 
-  - 000 - un número - https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb
+  - 000 - un número: https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb
 
-  - 001 - un número que incrementa - https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs
+  - 001 - un número que incrementa: https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs
 
-  - 002 - un número que incrementa - https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj
+  - 002 - un número que incrementa: https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj
 
-  - 003 - cadenas de caracteres - https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC
+  - 003 - un [string](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String): https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC
 
-  - 004 - arreglo - https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k
+  - 004 - un [array](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array): https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k
 
-  - 005 - objeto - https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc
+  - 005 - un [objeto](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics): https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc
 
-  - 006 - mix - https://editor.p5js.org/profesorfaco/sketches/EraL9UErk
+  - 006 - un ensamblaje: https://editor.p5js.org/profesorfaco/sketches/EraL9UErk
 
-- Luego revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/).
+- **Luego revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/)**.
 
-- Tomaremos un descanso y luego volveremos al [editor en línea de p5.js](https://editor.p5js.org/), para revisar tres formatos para el intercambio de datos: [JSON](https://www.json.org/json-es.html), [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) y [XML](https://developer.mozilla.org/es/docs/Introducci%C3%B3n_a_XML)
+- **Tomaremos un descanso y luego volveremos al [editor en línea de p5.js](https://editor.p5js.org/), para revisar tres formatos para el intercambio de datos: [JSON](https://www.json.org/json-es.html), [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) y [XML](https://developer.mozilla.org/es/docs/Introducci%C3%B3n_a_XML)**:
 
-  - 007 - JSON - https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ
+  - 007 - [JSON](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.json): https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ
 
-  - 008 - CSV - https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T
+  - 008 - [CSV](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.csv): https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T
 
-  - 009 - XML - https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC
+  - 009 - [XML](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.xml): https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC
 
-- Para terminar, obtendremos datos de distintas interfaces de programación de aplicaciones (API):
+- **Para terminar, obtendremos datos de distintas interfaces de programación de aplicaciones (API)**:
 
   - 010 - [Chuck Norris](https://api.chucknorris.io/) - https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ
-  
-  - 011 - [OpenWeatherMap](https://openweathermap.org/) - 
-  
-  - 012 - [Indicadores económicos](https://mindicador.cl/) - 
+    
+  - 011 - [Indicadores económicos](https://mindicador.cl/) - 
+
+  - 012 - [OpenWeatherMap](https://openweathermap.org/) - 
