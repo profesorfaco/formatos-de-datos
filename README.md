@@ -137,8 +137,8 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
 - **Para terminar, obtendremos datos de distintas interfaces de programación de aplicaciones (API)**:
 
-  - [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ): la API de [Chuck Norris](https://api.chucknorris.io/)
+  - [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ): la API de [Chuck Norris](https://api.chucknorris.io/).
     
-  - [DvO_4Lucl](https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl): la API de [Indicadores económicos](https://mindicador.cl/): 
+  - [DvO_4Lucl](https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl): la API de [Indicadores económicos](https://mindicador.cl/).
 
-  - [EVA9TKXl_](https://editor.p5js.org/profesorfaco/sketches/EVA9TKXl_): la API [OpenWeatherMap](https://openweathermap.org/)
+  - [EVA9TKXl_](https://editor.p5js.org/profesorfaco/sketches/EVA9TKXl_): la API [OpenWeatherMap](https://openweathermap.org/).
