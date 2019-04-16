@@ -72,19 +72,19 @@ Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](h
 
 **Para información respecto de los tipos de datos en otros lenguajes de programación, favor consultar:**
 
-- Tipos de datos en [C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)): http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
+- Tipos de datos en [C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)) → http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
 
-- Tipos de datos en [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)): https://www.w3schools.com/java/java_data_types.asp
+- Tipos de datos en [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) → https://www.w3schools.com/java/java_data_types.asp
 
-- Tipos de datos en [JavaScript](https://es.wikipedia.org/wiki/JavaScript): https://www.w3schools.com/JS/js_datatypes.asp
+- Tipos de datos en [JavaScript](https://es.wikipedia.org/wiki/JavaScript) → https://www.w3schools.com/JS/js_datatypes.asp
 
-- Tipos de datos en [PHP](https://es.wikipedia.org/wiki/PHP): https://www.w3schools.com/php/php_datatypes.asp
+- Tipos de datos en [PHP](https://es.wikipedia.org/wiki/PHP) → https://www.w3schools.com/php/php_datatypes.asp
 
-- Tipos de datos en [Python](https://es.wikipedia.org/wiki/Python): http://progra.usm.cl/apunte/materia/tipos.html
+- Tipos de datos en [Python](https://es.wikipedia.org/wiki/Python) → http://progra.usm.cl/apunte/materia/tipos.html
 
-- Tipos de datos en [Processing](https://es.wikipedia.org/wiki/Processing): http://processing-spain.blogspot.com/2015/09/42-creando-variables.html
+- Tipos de datos en [Processing](https://es.wikipedia.org/wiki/Processing) → http://processing-spain.blogspot.com/2015/09/42-creando-variables.html
 
-- Tipos de datos en [Ruby](https://es.wikipedia.org/wiki/Ruby): https://www.geeksforgeeks.org/ruby-data-types/
+- Tipos de datos en [Ruby](https://es.wikipedia.org/wiki/Ruby) → https://www.geeksforgeeks.org/ruby-data-types/
 
 - - - - - - - - - - - - - - - - -
 
