@@ -136,7 +136,7 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
   - [YIGnDZVAC](https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC): una variable conteniendo un objeto XML que resulta de la lectura de un [XML en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.xml).
 
-- **Para terminar, obtendremos datos de distintas interfaces de programación de aplicaciones (API)**:
+- **Para terminar, obtendremos datos de distintas [interfaces de programación de aplicaciones (API)](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)**:
 
   - [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ): la API de [Chuck Norris](https://api.chucknorris.io/).
     
