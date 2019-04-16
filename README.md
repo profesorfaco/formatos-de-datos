@@ -42,7 +42,7 @@ Tal definición de *data* está a la base de la pirámide DIKW (Data, Informatio
 
 - - - - - - - - - - - - - - - - 
 
-### TIPO DE DATO
+### TIPOS DE DATOS
 
 Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría inútil. Pero sería distinto de la siguiente manera: 
 
