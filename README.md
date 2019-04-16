@@ -136,6 +136,12 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
   - [YIGnDZVAC](https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC): una variable conteniendo un objeto XML que resulta de la lectura de un [XML en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.xml).
 
+- **En un paréntesis, pensaremos en algún asunto particular, con el que podamos generar un JSON que será validado y luego puesto en línea, para ser consultado con [loadJSON()](https://p5js.org/es/reference/#/p5/loadJSON) en p5.js. Para ello, usaremos:**
+
+  - JSONLint - The JSON Validator - https://jsonlint.com/
+
+  - Myjson - A simple json storage and hosting service - http://myjson.com/
+
 - **Para terminar, obtendremos datos de distintas [interfaces de programación de aplicaciones (API)](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)**:
 
   - [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ): la API de [Chuck Norris](https://api.chucknorris.io/).
@@ -143,3 +149,13 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
   - [DvO_4Lucl](https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl): la API de [Indicadores económicos](https://mindicador.cl/).
 
   - [EVA9TKXl_](https://editor.p5js.org/profesorfaco/sketches/EVA9TKXl_): la API [OpenWeatherMap](https://openweathermap.org/).
+
+### Más datos y APIs
+
+- [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets#awesome-json-datasets-)
+
+- [Datasets - Data.gov](https://catalog.data.gov/dataset?res_format=JSON)
+
+- [SmartCitizen API Reference](https://developer.smartcitizen.me/)
+
+- [USGS - GeoJSON Summary](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
