@@ -117,7 +117,7 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
 
   - 02 - dos números que se suman: https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj
 
-  - 03 - dos [strings] que se concatenan: (https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String): https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC
+  - 03 - dos [strings](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String) que se concatenan: https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC
 
   - 04 - un [array](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array) con 2 strings, que también se contatenan: https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k
 
