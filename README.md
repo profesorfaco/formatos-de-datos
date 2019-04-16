@@ -89,7 +89,7 @@ Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](h
 
 ### DATOS EN JAVASCRIPT
 
-Los datos son contenidos en las variables. Aunque todas las variables de JavaScript se crean con una única palabra reservada,`var`, sin importar el tipo de dato, se debe poner atención en algunos símbolos que se utilizan para la asignación de contenido, signos que se utilizan después del signo igual:
+Los datos son contenidos en las variables. En [JavaScript](https://es.wikipedia.org/wiki/JavaScript) todas las variables se crean con una única palabra reservada,`var`, sin importar el tipo de dato. La diferencia está en los símbolos que se utilizan para la asignación de contenido, signos que se utilizan después del signo igual:
 
 ```
 var a = 18261884;
