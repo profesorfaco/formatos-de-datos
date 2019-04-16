@@ -152,7 +152,7 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
 - - - - - - - - - - - - - - - - - 
 
-#### Para practicar
+### Para practicar
 
 **Más datos y APIs:**
 
