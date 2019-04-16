@@ -107,7 +107,7 @@ var f = { mom: "Luann", dad:"Kirk", children:"Milhouse"};
 
 Las variables `a`, `b` y `c` no requieren comillas. La variable `d`, que contiene una cadena de caracteres (*string*) usa comillas. La variable `e`, que contiene un arreglo, usa paréntesis cuadrado y cada elemento, por tratarse de un *string*, usa comillas. La variable `f`que contiene un objeto, usa paréntesis de llave que en su interior contiene pares separados por comas.
 
-Para avanzar en el uso de datos, y hacer una introducción a las herramientas para el proceso de visualización, haremos una exploración que dividiremos en 4 partes:
+Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las herramientas para el proceso de visualización, haremos una exploración que dividiremos en 4 partes:
 
 - **Primero revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/)**.
 
