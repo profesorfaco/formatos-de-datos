@@ -158,9 +158,9 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets#awesome-json-datasets-)
 
-- [Datasets - Data.gov](https://catalog.data.gov/dataset?res_format=JSON)
-
 - [Catálogo de Datos - Gobierno Digital de Chile](https://beta.datos.gob.cl/search/)
+
+- [Datasets - Data.gov](https://catalog.data.gov/dataset?res_format=JSON)
 
 - [SmartCitizen API Reference](https://developer.smartcitizen.me/)
 
