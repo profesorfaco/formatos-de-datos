@@ -137,7 +137,7 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
 
 - **Para terminar, obtendremos datos de distintas interfaces de programación de aplicaciones (API)**:
 
-  - 10: [Chuck Norris](https://api.chucknorris.io/): [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/)
+  - 10: [Chuck Norris](https://api.chucknorris.io/): [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ)
     
   - 11: [Indicadores económicos](https://mindicador.cl/): [DvO_4Lucl](https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl)
 
