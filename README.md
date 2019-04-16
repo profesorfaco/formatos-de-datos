@@ -121,9 +121,9 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
 
   - una variable conteniendo un [array](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array): [b8o79kL3k](https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k)
 
-  - una variable con un [objeto](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics): [mvI9d1djc](https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc)
+  - una variable conteniendo un [objeto](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics): [mvI9d1djc](https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc)
 
-  - una variable con un ensamblaje: [EraL9UErk](https://editor.p5js.org/profesorfaco/sketches/EraL9UErk)
+  - una variable conteniendo un ensamblaje: [EraL9UErk](https://editor.p5js.org/profesorfaco/sketches/EraL9UErk)
 
 - **Luego revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/)**.
 
