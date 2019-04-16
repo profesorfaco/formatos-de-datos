@@ -111,34 +111,34 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
 
 - **Primero aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), con los ejercicios**:
 
-  - 00 / un número [/wCJrC97zb](https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb)
+  - 00: un número: [wCJrC97zb](https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb)
 
-  - 01 / un número que incrementa [/Jxux74Irs](https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs)
+  - 01: un número que incrementa: [Jxux74Irs](https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs)
 
-  - 02 / dos números que se suman [/K21IBXOzj](https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj)
+  - 02: dos números que se suman: [K21IBXOzj](https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj)
 
-  - 03 / dos [strings](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String) que se concatenan [_EoptWEIC](https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC)
+  - 03: dos [strings](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String) que se concatenan: [_EoptWEIC](https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC)
 
-  - 04 / un [array](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array) con 2 strings, que también se contatenan: [/b8o79kL3k](https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k)
+  - 04: un [array](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array) con 2 strings, que también se contatenan: [b8o79kL3k](https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k)
 
-  - 05 - lo mismo con un [objeto](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics): [/mvI9d1djc](https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc)
+  - 05: lo mismo con un [objeto](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics): [mvI9d1djc](https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc)
 
-  - 06 - un ensamblaje: [/EraL9UErk](https://editor.p5js.org/profesorfaco/sketches/EraL9UErk)
+  - 06: un ensamblaje: [EraL9UErk](https://editor.p5js.org/profesorfaco/sketches/EraL9UErk)
 
 - **Luego revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/)**.
 
 - **Tomaremos un descanso y luego volveremos al [editor en línea de p5.js](https://editor.p5js.org/), para revisar tres formatos para el intercambio de datos: [JSON](https://www.json.org/json-es.html), [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) y [XML](https://developer.mozilla.org/es/docs/Introducci%C3%B3n_a_XML)**:
 
-  - 07 - [JSON](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.json): https://editor.p5js.org/profesorfaco/sketches/XJSJcAKfh
+  - 07: [JSON](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.json): [XJSJcAKfh](https://editor.p5js.org/profesorfaco/sketches/XJSJcAKfh)
 
-  - 08 - [CSV](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.csv): https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T
+  - 08: [CSV](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.csv): [JYt_9R75T](https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T)
 
-  - 09 - [XML](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.xml): https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC
+  - 09: [XML](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.xml): [YIGnDZVAC](https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC)
 
 - **Para terminar, obtendremos datos de distintas interfaces de programación de aplicaciones (API)**:
 
-  - 10 - [Chuck Norris](https://api.chucknorris.io/) - https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ
+  - 10: [Chuck Norris](https://api.chucknorris.io/): [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/)
     
-  - 11 - [Indicadores económicos](https://mindicador.cl/) - https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl
+  - 11: [Indicadores económicos](https://mindicador.cl/): [DvO_4Lucl](https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl)
 
-  - 12 - [OpenWeatherMap](https://openweathermap.org/) - https://editor.p5js.org/profesorfaco/sketches/EVA9TKXl_
+  - 12: [OpenWeatherMap](https://openweathermap.org/): [EVA9TKXl_](https://editor.p5js.org/profesorfaco/sketches/EVA9TKXl_)
