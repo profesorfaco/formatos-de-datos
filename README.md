@@ -130,9 +130,9 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
 - **Tomaremos un descanso y luego volveremos al [editor en línea de p5.js](https://editor.p5js.org/), para revisar tres formatos para el intercambio de datos: [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas), [JSON](https://www.json.org/json-es.html) y [XML](https://developer.mozilla.org/es/docs/Introducci%C3%B3n_a_XML)**:
 
-  - [JYt_9R75T](https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T): una variable conteniendo un objeto p5.Table que resulta de la lectura de un [CSV en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.csv), como objeto o arreglo.
+  - [JYt_9R75T](https://editor.p5js.org/profesorfaco/sketches/JYt_9R75T): una variable conteniendo un objeto p5.Table que resulta de la lectura de un [CSV en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.csv).
 
-  - [XJSJcAKfh](https://editor.p5js.org/profesorfaco/sketches/XJSJcAKfh): una variable conteniendo un objeto o arreglo que resulta de la lectura de un [JSON en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.json), como objeto o arreglo.
+  - [XJSJcAKfh](https://editor.p5js.org/profesorfaco/sketches/XJSJcAKfh): una variable conteniendo un objeto o arreglo que resulta de la lectura de un [JSON en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.json), sea como objeto o arreglo.
 
   - [YIGnDZVAC](https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC): una variable conteniendo un objeto XML que resulta de la lectura de un [XML en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.xml).
 
