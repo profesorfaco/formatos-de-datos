@@ -111,19 +111,19 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
 
 - **Primero aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), con los ejercicios**:
 
-  - 00 - un número: https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb
+  - 00 / un número [/wCJrC97zb](https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb)
 
-  - 01 - un número que incrementa: https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs
+  - 01 / un número que incrementa [/Jxux74Irs](https://editor.p5js.org/profesorfaco/sketches/Jxux74Irs)
 
-  - 02 - dos números que se suman: https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj
+  - 02 / dos números que se suman [/K21IBXOzj](https://editor.p5js.org/profesorfaco/sketches/K21IBXOzj)
 
-  - 03 - dos [strings](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String) que se concatenan: https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC
+  - 03 / dos [strings](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String) que se concatenan [_EoptWEIC](https://editor.p5js.org/profesorfaco/sketches/_EoptWEIC)
 
-  - 04 - un [array](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array) con 2 strings, que también se contatenan: https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k
+  - 04 / un [array](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array) con 2 strings, que también se contatenan: [/b8o79kL3k](https://editor.p5js.org/profesorfaco/sketches/b8o79kL3k)
 
-  - 05 - lo mismo con un [objeto](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics): https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc
+  - 05 - lo mismo con un [objeto](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics): [/mvI9d1djc](https://editor.p5js.org/profesorfaco/sketches/mvI9d1djc)
 
-  - 06 - un ensamblaje: https://editor.p5js.org/profesorfaco/sketches/EraL9UErk
+  - 06 - un ensamblaje: [/EraL9UErk](https://editor.p5js.org/profesorfaco/sketches/EraL9UErk)
 
 - **Luego revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/)**.
 
