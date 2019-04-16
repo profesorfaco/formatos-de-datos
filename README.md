@@ -152,7 +152,9 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
 - - - - - - - - - - - - - - - - - 
 
-#### Para practicar: más datos y APIs
+#### Para practicar
+
+**Más datos y APIs:**
 
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets#awesome-json-datasets-)
 
