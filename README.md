@@ -14,13 +14,13 @@ En castellano, sin computadoras, un **dato es información sobre algo concreto**
 
 También en castellano, con computadoras, un **dato es información dispuesta de manera adecuada para su tratamiento**. Lo que queda muy cerca de una acepción del término inglés *data* que es definida en el [Diccionario Merriam-Webster](https://www.merriam-webster.com/dictionary/data), como: ***information in digital form that can be transmitted or processed***. Acepción que se complejiza en el [Diccionario Oxford](https://en.oxforddictionaries.com/definition/data): ***The quantities, characters, or symbols on which operations are performed by a computer**, which may be stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media*
 
-Pero hay una condición de la palabra *data* que la diferencia de nuestra palabra *dato*. A saber: *noun, plural in form but singular or plural in construction, often attributive* ([Merriam-Webster](https://www.merriam-webster.com/dictionary/data)). Así, por ejemplo, Phil Izzo (2012) escribe en un artículo del blog de [Wall Street Journal](https://blogs.wsj.com/economics/2012/07/05/is-data-is-or-is-data-aint-a-plural/):
+Pero hay una condición de la palabra *data* que la diferencia de nuestra palabra *dato*. A saber: *noun, plural in form but singular or plural in construction, often attributive*. Refiriéndose a esta condición, Phil Izzo (2012) escribe en un artículo del blog de [Wall Street Journal](https://blogs.wsj.com/economics/2012/07/05/is-data-is-or-is-data-aint-a-plural/):
 
 > As usage has evolved from the word's origin as the Latin plural of datum, singular [is] used to refer to collections of information: **Little data is available to support the conclusions**.
 > 
 > Otherwise, generally continue to use the plural: **Data are still being collected**.
 
-Pero en la traducción de ambas frases al castellano tendríamos que usar el plural (tenemos pocos datos para apoyar las conclusiones; los datos aún nos están siendo recolectados). Y en esta línea podemos conectar con algunas definiciones que aporta Russell Lincoln Ackoff (1989):
+En la traducción de ambas frases al castellano tendríamos que usar el plural (tenemos pocos datos para apoyar las conclusiones; los datos aún nos están siendo recolectados). Y en plural hay una definición que conviene conocer:
 
 > **Data are symbols that represent the properties of objects and events. Information consists of processed data, the processing directed at increasing its usefulness**. For example, census takers collect data. The Bureau of the Census processes that data, converting it into information that is presented in the numerous tables published in the Statistical Abstracts. Like data, information also represents the properties of objects and events, but it does so more compactly and usefully than data. **The difference between data and information is functional, not structural**.
 
@@ -50,13 +50,13 @@ Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría
 |:----------|:-----------------|:---------------|
 | Chile     | 18261884         | 756102         |
 
-Gracias a la [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), ustedes cuentan con pistas que los orientan a la utilización de tal número como información sobre algo concreto: La población en Chile. 
+Entendiendo cómo funciona una [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), ustedes cuentan con pistas que los orientan a la utilización de tal número como información sobre algo concreto: La población en Chile. 
 
-Además del dato de la población de Chile, contamos con la superficie de su territorio. Si dividimos el primer dato por el segundo, obtenemos un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella división es 24,15267252.
+Además del dato de la población de Chile, contamos con su superficie. Si dividimos el primer dato por el segundo, obtenemos un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella división es 24,15267252.
 
 Los números 18261884 y 24,15267252 tienen una diferencia que corresponde señalar al momento de disponerlos para su tratamiento en computación: 
 
-- **18261884** es un `int`: Del inglés *integer*.  
+- **18261884** es un `int`: Del inglés *integer*.
 
 - **24,15267252** es un `float`: Del inglés *floating point number*.
 
@@ -74,16 +74,17 @@ Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](h
 
 - Tipos de datos en [C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)): http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
 
-- Tipos de datos en [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)): https://www.javatpoint.com/java-data-types
+- Tipos de datos en [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)): https://www.w3schools.com/java/java_data_types.asp
 
-- Tipos de datos en [PHP](https://es.wikipedia.org/wiki/PHP): https://www.tutorialrepublic.com/php-tutorial/php-data-types.php
+- Tipos de datos en [JavaScript](https://es.wikipedia.org/wiki/JavaScript): https://www.w3schools.com/JS/js_datatypes.asp
+
+- Tipos de datos en [PHP](https://es.wikipedia.org/wiki/PHP): https://www.w3schools.com/php/php_datatypes.asp
 
 - Tipos de datos en [Python](https://es.wikipedia.org/wiki/Python): http://progra.usm.cl/apunte/materia/tipos.html
 
 - Tipos de datos en [Processing](https://es.wikipedia.org/wiki/Processing): http://processing-spain.blogspot.com/2015/09/42-creando-variables.html
 
 - Tipos de datos en [Ruby](https://es.wikipedia.org/wiki/Ruby): https://www.geeksforgeeks.org/ruby-data-types/
-
 
 - - - - - - - - - - - - - - - - -
 
