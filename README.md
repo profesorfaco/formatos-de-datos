@@ -68,23 +68,28 @@ Y así como se puden reconocer distintos tipos de número, podemos decir que:
 
 Podrán notar que en el tipo de dato numérico y booleano no se usaron comillas, pero en el caso del caracter sí se utiliza. 
 
-Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para declarar que una variable (un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte) almacenará un [tipo de dato básico](https://www.javatpoint.com/cpp-data-types). 
+Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para declarar que una variable (un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte) almacenará cierto [tipo de dato](https://beginnersbook.com/2017/08/cpp-data-types/). 
 
-**Para mayor información respecto de los tipos de datos, favor consultar:**
+**Para información respecto de los tipos de datos en otros lenguajes de programación, favor consultar:**
 
-- Tipos de datos en C - http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
+- Tipos de datos en [C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)): http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
 
-- Tipos de datos en C++ - https://beginnersbook.com/2017/08/cpp-data-types/
+- Tipos de datos en [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)): https://www.javatpoint.com/java-data-types
 
-- Tipos de datos en Java - https://www.javatpoint.com/java-data-types
+- Tipos de datos en [PHP](https://es.wikipedia.org/wiki/PHP): https://www.tutorialrepublic.com/php-tutorial/php-data-types.php
 
-- Tipos de datos en Processing - http://processing-spain.blogspot.com/2015/09/42-creando-variables.html
+- Tipos de datos en [Python](https://es.wikipedia.org/wiki/Python): http://progra.usm.cl/apunte/materia/tipos.html
+
+- Tipos de datos en [Processing](https://es.wikipedia.org/wiki/Processing): http://processing-spain.blogspot.com/2015/09/42-creando-variables.html
+
+- Tipos de datos en [Ruby](https://es.wikipedia.org/wiki/Ruby): https://www.geeksforgeeks.org/ruby-data-types/
+
 
 - - - - - - - - - - - - - - - - -
 
 ### DATOS EN JAVASCRIPT
 
-Los datos son contenidos en las variables. Aunque todas las variables de JavaScript se crean de la misma forma (mediante la palabra reservada `var`), corresponde poner atención en algunos símbolos que se utilizan para la asignación de contenido:
+Los datos son contenidos en las variables. Aunque todas las variables de JavaScript se crean con una única palabra reservada,`var`, sin importar el tipo de dato, se debe poner atención en algunos símbolos que se utilizan para la asignación de contenido, signos que se utilizan después del signo igual:
 
 ```
 var a = 18261884;
