@@ -136,7 +136,7 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
   - [YIGnDZVAC](https://editor.p5js.org/profesorfaco/sketches/YIGnDZVAC): una variable conteniendo un objeto XML que resulta de la lectura de un [XML en línea](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.xml).
 
-- **En un paréntesis, pensaremos en algún asunto particular, con el que podamos generar un JSON que será validado y luego puesto en línea, para ser consultado con [loadJSON()](https://p5js.org/es/reference/#/p5/loadJSON) en p5.js. Para ello, usaremos:**
+- **En un paréntesis, pensaremos en algún asunto particular con el que podamos generar un JSON que será validado y luego puesto en línea, para ser consultado con [loadJSON()](https://p5js.org/es/reference/#/p5/loadJSON) en p5.js. Para ello, usaremos:**
 
   - JSONLint - The JSON Validator - https://jsonlint.com/
 
