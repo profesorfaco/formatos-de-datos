@@ -1,8 +1,8 @@
 # Diplomado en Visualización de Datos v.2019
 
-**Formatos de datos + Introducción a herramientas para el proceso de visualización**
+#### Miércoles 24 de abril (18.30 - 21.30 hrs.)
 
-Miércoles 24 de abril / 18:30 a 21:30 hrs.
+**[DATOS](https://github.com/profesorfaco/datos/blob/gh-pages/README.md#datos) ⇢ [TIPOS DE DATOS](https://github.com/profesorfaco/datos/blob/gh-pages/README.md#tipo-de-dato) ⇢ [DATOS EN JAVASCRIPT](https://github.com/profesorfaco/datos/blob/gh-pages/README.md#datos-en-javascript)**
 
 Profesor Felipe Cortez / http://profesor.faco.cl / profesor@faco.cl
 
