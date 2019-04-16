@@ -109,7 +109,9 @@ Las variables `a`, `b` y `c` no requieren comillas. La variable `d`, que contien
 
 Para avanzar en el uso de datos, y hacer una introducción a las herramientas para el proceso de visualización, haremos una exploración que dividiremos en 4 partes:
 
-- **Primero aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), con los ejercicios**:
+- **Primero revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/)**.
+
+- **Luego aprovecharemos el [editor en línea de p5.js](https://editor.p5js.org/), para revisar**:
 
   - una variable conteniendo un número: [wCJrC97zb](https://editor.p5js.org/profesorfaco/sketches/wCJrC97zb)
 
@@ -125,8 +127,6 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
 
   - una variable conteniendo un ensamblaje: [EraL9UErk](https://editor.p5js.org/profesorfaco/sketches/EraL9UErk)
 
-- **Luego revisaremos [las páginas contenidas en este repositorio](https://profesorfaco.github.io/datos/)**.
-
 - **Tomaremos un descanso y luego volveremos al [editor en línea de p5.js](https://editor.p5js.org/), para revisar tres formatos para el intercambio de datos: [JSON](https://www.json.org/json-es.html), [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) y [XML](https://developer.mozilla.org/es/docs/Introducci%C3%B3n_a_XML)**:
 
   - una variable donde se parsea un [JSON](https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/sudamerica.json): [XJSJcAKfh](https://editor.p5js.org/profesorfaco/sketches/XJSJcAKfh)
@@ -137,8 +137,8 @@ Para avanzar en el uso de datos, y hacer una introducción a las herramientas pa
 
 - **Para terminar, obtendremos datos de distintas interfaces de programación de aplicaciones (API)**:
 
-  - una variable donde se consulta la API de [Chuck Norris](https://api.chucknorris.io/): [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ)
+  - la API de [Chuck Norris](https://api.chucknorris.io/): [yKB14D8RQ](https://editor.p5js.org/profesorfaco/sketches/yKB14D8RQ)
     
-  - una variable donde se consulta la API de [Indicadores económicos](https://mindicador.cl/): [DvO_4Lucl](https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl)
+  - la API de [Indicadores económicos](https://mindicador.cl/): [DvO_4Lucl](https://editor.p5js.org/profesorfaco/sketches/DvO_4Lucl)
 
-  - una variable donde se consulta la API [OpenWeatherMap](https://openweathermap.org/): [EVA9TKXl_](https://editor.p5js.org/profesorfaco/sketches/EVA9TKXl_)
+  - la API [OpenWeatherMap](https://openweathermap.org/): [EVA9TKXl_](https://editor.p5js.org/profesorfaco/sketches/EVA9TKXl_)
