@@ -28,29 +28,42 @@ Tal definición de *data* está a la base de la pirámide DIKW (Data, Informatio
 
 ![DIKW pyramid](https://eight2late.files.wordpress.com/2011/03/dikw.jpg)
 
-**Para mayor información sobre la *DIKW pyramid*, favor consultar:**
+#### Datos cuantitativos v/s datos cualitativos. 
 
-- Ackoff - From Data to Wisdom - http://faculty.ung.edu/kmelton/documents/datawisdom.pdf
+Apoyándonos en Hernández Sampieri (2014), podemos decir que: 
 
-- Bellinger, Castro & Mills - Data, Information, Knowledge, and Wisdom - http://www.systems-thinking.org/dikw/dikw.htm
+- En el enfoque cuantitativo la recolección de los datos se fundamenta en la medición y el análisis, en procedimientos estadísticos, buscando regularidades y relaciones causales entre elementos, para la formulación y demostración de teorías.
+ 
+- En el enfoque cualitativo NO se pretende generalizar los resultados a poblaciones más amplias de manera probabilística. Por esta razón los datos cualitativos son descripciones detalladas de situaciones, eventos, personas, interacciones, conductas observadas y sus manifestaciones.
 
-- Bernstein - The Data-Information-Knowledge-Wisdom Hierarchy and its Antithesis - https://journals.lib.washington.edu/index.php/nasko/article/viewFile/12806/11288
+A lo dicho, podemos agregar apuntes de Babbie (2000), quien señala que la distinción entre datos cualitativos y cuantitativos en la investigación social es la distinción entre datos numéricos y no numéricos: 
 
-- Rowley - The wisdom hierarchy: representations of the DIKW hierarchy - http://wisdomresearch.org/forums/storage/26/220/rowley_jis_042007.pdf
+>> Cuando usted encomia la belleza de alguien está emitiendo una afirmación cualitativa. Cuando dice que esa persona tiene "9" en una escala del 1 al 10, trata de cuantificar su aseveración cualitativa […] La localización del indicador en una escala de medición […] (No) es inherentemente numérico o cuantitativo, pero a veces es útil convertirlo a la forma numérica.[…] La cuantificación hace más explícitas nuestras observaciones. También facilita congregar y resumir los datos. Más aún, abre la posibilidad de realizar análisis estadísticos que van de los meros promedios a las fórmulas y modelos matemáticos complejos (pp. 23-24)
 
-- Schumaker - From Data to Wisdom: The Progression of Computational Learning in Text Mining - https://pdfs.semanticscholar.org/3e1f/fd7e97589b35df7c3d08c94357882fe88cbd.pdf
+### Variables y atributos
+
+En ciencias sociales los investigadores entienden por variables a los agrupamientos lógicos de atributos. Mientras que los atributos o valores son las características o cualidades que describen un objeto. La relación entre ambas pueden entenderse en la siguiente tabla (Babbie, 2000:17)
+
+| Variable       | Atributos      |
+|:---------------|:---------------|
+| Género         | Mujer, hombre |
+| Edad          | joven, mediana edad, anciano… |
+| Raza/etnicidad | Caucásico, afroestadounidense, asiático, latino… |
+| Clase social | Clase baja, clase media, clase alta… |
+| Ocupación | Plomero, carpintero, sociólogo, abogado… | 
+
 
 - - - - - - - - - - - - - - - - 
 
 ### TIPOS DE DATOS
 
-Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría inútil. Pero sería distinto de la siguiente manera: 
+Si compartiera con ustedes el número 18261884, sin contexto alguno (como puro atributo), resultaría inútil. Pero sería distinto de la siguiente manera: 
 
 | País      |  Población       | Superficie     |
 |:----------|:-----------------|:---------------|
 | Chile     | 18261884         | 756102         |
 
-Entendiendo cómo funciona una [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), ustedes cuentan con pistas que los orientan a la utilización de tal número como información sobre algo concreto: La población en Chile. 
+Entendiendo cómo funciona una [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), ustedes cuentan con pistas sobre el atributo al que corresponde, lo que es orientar a la utilización de tal número como información sobre algo concreto: La población en Chile. 
 
 Además del dato de la población de Chile, contamos con su superficie. Si dividimos el primer dato por el segundo, obtenemos un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella división es 24,15267252.
 
@@ -68,7 +81,9 @@ Y así como se puden reconocer distintos tipos de número, podemos decir que:
 
 Podrán notar que en el tipo de dato numérico y booleano no se usaron comillas, pero en el caso del caracter sí se utiliza. 
 
-Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para declarar que una variable (un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte) almacenará cierto [tipo de dato](https://beginnersbook.com/2017/08/cpp-data-types/). 
+Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para declarar que una variable que almacenará cierto [tipo de dato](https://beginnersbook.com/2017/08/cpp-data-types/). 
+
+En el contexto computacional, una variable debe entenderse como un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte. 
 
 **Para información respecto de los tipos de datos en otros lenguajes de programación, favor consultar:**
 
