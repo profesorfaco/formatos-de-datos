@@ -38,11 +38,11 @@ Apoyándonos en Hernández Sampieri (2014), podemos decir que:
 
 A lo dicho, podemos agregar apuntes de Babbie (2000), quien señala que la distinción entre datos cualitativos y cuantitativos en la investigación social es la distinción entre datos numéricos y no numéricos: 
 
-> Cuando usted encomia la belleza de alguien está emitiendo una afirmación cualitativa. Cuando dice que esa persona tiene "9" en una escala del 1 al 10, trata de cuantificar su aseveración cualitativa […] La localización del indicador en una escala de medición […] (No) es inherentemente numérico o cuantitativo, pero a veces es útil convertirlo a la forma numérica.[…] La cuantificación hace más explícitas nuestras observaciones. También facilita congregar y resumir los datos. Más aún, abre la posibilidad de realizar análisis estadísticos que van de los meros promedios a las fórmulas y modelos matemáticos complejos (pp. 23-24)
+> Cuando usted encomia la belleza de alguien está emitiendo una afirmación cualitativa. **Cuando dice que esa persona tiene "9" en una escala del 1 al 10, trata de cuantificar su aseveración cualitativa** […] La localización del indicador en una escala de medición […] (No) es inherentemente numérico o cuantitativo, pero a veces es útil convertirlo a la forma numérica.[…] La cuantificación hace más explícitas nuestras observaciones. También facilita congregar y resumir los datos. Más aún, **abre la posibilidad de realizar análisis estadísticos que van de los meros promedios a las fórmulas y modelos matemáticos complejos** (pp. 23-24).
 
 ### Variables y atributos
 
-En ciencias sociales los investigadores entienden por variables a los agrupamientos lógicos de atributos. Mientras que los atributos o valores son las características o cualidades que describen un objeto. La relación entre ambas pueden entenderse en la siguiente tabla (Babbie, 2000:17)
+En ciencias sociales **los investigadores entienden por variables a los agrupamientos lógicos de atributos**. Mientras que los atributos o valores son las características o cualidades que describen un objeto. La relación entre ambas pueden entenderse en la siguiente tabla (Babbie, 2000:17)
 
 | Variable       | Atributos      |
 |:---------------|:---------------|
