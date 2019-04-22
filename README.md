@@ -83,9 +83,9 @@ Podrán notar que en el tipo de dato numérico y booleano no se usaron comillas,
 
 Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para declarar que una variable que almacenará cierto [tipo de dato](https://beginnersbook.com/2017/08/cpp-data-types/). 
 
-En el contexto computacional, una variable debe entenderse como un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte. 
+**En el contexto computacional, una variable debe entenderse como un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte.** 
 
-**Para información respecto de los tipos de datos en otros lenguajes de programación, favor consultar:**
+**Para información respecto de la declaración de los tipos de datos en otros lenguajes de programación, favor consultar:**
 
 - Tipos de datos en [C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)) → http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
 
