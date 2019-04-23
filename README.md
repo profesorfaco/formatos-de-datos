@@ -8,7 +8,7 @@ Profesor Felipe Cortez / http://profesor.faco.cl / profesor@faco.cl
 
 - - - - - - - - - - 
 
-### DATOS
+## DATOS
 
 En castellano, sin computadoras, un **dato es información sobre algo concreto** que permite su conocimiento exacto o sirve para deducir las consecuencias derivadas de un hecho.
 
@@ -60,7 +60,7 @@ En la recolección de datos, los investigadores de ciencias sociales diferencian
 
 - - - - - - - - - - - - - - - - 
 
-### TIPOS DE DATOS
+## TIPOS DE DATOS
 
 Si compartiera con ustedes el número 18261884, sin contexto alguno (como puro atributo), resultaría inútil. Pero sería distinto de la siguiente manera: 
 
@@ -108,7 +108,7 @@ Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](h
 
 - - - - - - - - - - - - - - - - -
 
-### DATOS EN JAVASCRIPT
+## DATOS EN JAVASCRIPT
 
 **En programación, los datos puede ser contenidos en las variables. En [JavaScript](https://es.wikipedia.org/wiki/JavaScript) todas las variables se crean con una única palabra reservada,`var`, sin importar el tipo de dato**. La diferencia está en los símbolos que se utilizan para la asignación de contenido, los que se utilizan después del signo igual:
 
