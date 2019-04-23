@@ -78,19 +78,19 @@ Los números 18261884 y 24,15267252 tienen una diferencia que corresponde señal
 
 - **24,15267252** es un número de coma flotante, un `float` (del inglés *floating point number*) en varios lenguajes de programación.
 
-Y así como se puden reconocer dos tipos de número, podemos reconocer que:
+A estos dos tipos de datos numéricos, podemos agregar otros tipos de datos: 
 
-- **true** es una de dos opciones de dato lógico en un `bool`: Del inglés [*Boolean*](https://es.wikipedia.org/wiki/Tipo_de_dato_l%C3%B3gico). 
+- **true** o **false** como las dos opciones posibles de un [tipo de dato lógico](https://es.wikipedia.org/wiki/Tipo_de_dato_l%C3%B3gico) (bool: *boolean*)
 
-- **"A"** es un `char`: Del inglés *character*.
+- **"A"** como un carácter (char: *character*)
 
 Podrán notar que en el tipo de dato numérico y booleano no se usaron comillas, pero en el caso del caracter sí se utiliza. 
 
-Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para declarar que una variable que almacenará cierto [tipo de dato](https://beginnersbook.com/2017/08/cpp-data-types/). 
+Mencionamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para **declarar que una variable que almacenará cierto [tipo de dato](https://beginnersbook.com/2017/08/cpp-data-types/)**. 
 
 **En el contexto computacional, una variable debe entenderse como un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que sea parte.** 
 
-**Para información respecto de la declaración de los tipos de datos en otros lenguajes de programación, favor consultar:**
+**Para mayor información respecto de la declaración de los tipos de datos en otros lenguajes de programación, favor consultar:**
 
 - Tipos de datos en [C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)) → http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm
 
