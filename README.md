@@ -28,7 +28,7 @@ Tal definición de *data* está a la base de la pirámide DIKW (Data, Informatio
 
 ![DIKW pyramid](https://eight2late.files.wordpress.com/2011/03/dikw.jpg)
 
-#### Datos cuantitativos v/s datos cualitativos. 
+### Datos cuantitativos v/s datos cualitativos
 
 Apoyándonos en Hernández Sampieri (2014), podemos decir que: 
 
@@ -44,7 +44,7 @@ Ahora bien, la posibilidad de análisis estadísticos es una posibilidad de enfo
 
 ![W. Playfair](http://www.branchcollective.org/wp-content/uploads/2012/10/SachsFigure1-1024x632.jpg)
 
-#### Variables y atributos
+### Variables y atributos
 
 En la recolección de datos, los investigadores de ciencias sociales diferencian entre variables y atributos; **las variables son los agrupamientos lógicos de atributos**. Mientras que los atributos o valores son las características o cualidades que describen un objeto. La relación entre ambas pueden entenderse en la siguiente tabla (Babbie, 2000:17)
 
