@@ -56,7 +56,7 @@ En la recolección de datos, los investigadores de ciencias sociales diferencian
 | Clase social | Clase baja, clase media, clase alta… |
 | Ocupación | Plomero, carpintero, sociólogo, abogado… | 
 
-**Si ponemos atención a las variables utilizadas en distintos estudios, podríamos encontrar fuentes de datos cuantitativos de interés**. Revisando, por ejemplo, la [presentación del *Índice de Calidad de Vida Urbana 2018*](http://estudiosurbanos.uc.cl/images/investigaciones/Arturo_Orellana/ICVU_2018/20180508_ICVU_2018_-_Version_Definitiva.pdf), podemos encontrar que dentro de la dimensión de *ambiente de negocios* se considera la variable del *número de cajeros automáticos por cada 10 mil habitantes, enero 2018*; tales números, según la presentación, vienen de la [SBIF](https://www.sbif.cl/).
+**Si ponemos atención a las variables utilizadas en distintos estudios, podríamos encontrar fuentes de datos cuantitativos de interés**. Revisando, por ejemplo, la [presentación del *Índice de Calidad de Vida Urbana 2018*](http://estudiosurbanos.uc.cl/images/investigaciones/Arturo_Orellana/ICVU_2018/20180508_ICVU_2018_-_Version_Definitiva.pdf), podemos encontrar que dentro de la dimensión de *ambiente de negocios* se considera la variable del *número de cajeros automáticos por cada 10 mil habitantes, enero 2018*; la fuente de tales números, según la presentación, es la [SBIF](https://www.sbif.cl/).
 
 - - - - - - - - - - - - - - - - 
 
