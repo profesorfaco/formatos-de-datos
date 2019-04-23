@@ -58,8 +58,6 @@ En la recolección de datos cuantitativos, los investigadores de ciencias social
 | Clase social | Clase baja, clase media, clase alta… |
 | Ocupación | Plomero, carpintero, sociólogo, abogado… | 
 
-Al darse esta dupla en la recolección de datos, ya contamos con información, en el sentido de una clara utilidad.
-
 - - - - - - - - - - - - - - - - 
 
 ### TIPOS DE DATOS
