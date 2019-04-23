@@ -178,7 +178,7 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
 **Más datos y APIs:**
 
-- [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets#awesome-json-datasets-)
+- [Awesome JSON Datasets - A curated list of awesome JSON datasets that don't require authentication](https://github.com/jdorfman/awesome-json-datasets#awesome-json-datasets-)
 
 - [Cámara de Diputados - Estadísticas y documentos](https://www.camara.cl/camara/camara_estadisticas.aspx)
 
