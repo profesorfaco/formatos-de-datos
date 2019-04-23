@@ -25,7 +25,7 @@ var profesor = {
 		"Bicicleta"
 	],
 	saludo: function(){
-		alert("Hola, mi nombre es " + this.nombre[0] + " " + this.nombre[2])
+		alert("Hola, me llamo " + this.nombre[0] + " " + this.nombre[2])
 	},
 	repositorio: function(){
 		window.location.replace("https://github.com/profesorfaco/datos/")
