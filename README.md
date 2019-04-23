@@ -44,7 +44,7 @@ Ahora bien, la posibilidad de análisis estadísticos es una posibilidad de enfo
 
 ![W. Playfair](http://www.branchcollective.org/wp-content/uploads/2012/10/SachsFigure1-1024x632.jpg)
 
-### Variables y atributos
+#### Variables y atributos
 
 En la recolección de datos cuantitativos, los investigadores de ciencias sociales diferencias entre variables y atributos. 
 
