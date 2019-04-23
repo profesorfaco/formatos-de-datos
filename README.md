@@ -46,7 +46,9 @@ Ahora bien, la posibilidad de análisis estadísticos es una posibilidad de enfo
 
 ### Variables y atributos
 
-En ciencias sociales **los investigadores entienden por variables a los agrupamientos lógicos de atributos**. Mientras que los atributos o valores son las características o cualidades que describen un objeto. La relación entre ambas pueden entenderse en la siguiente tabla (Babbie, 2000:17)
+En la recolección de datos cuantitativos, los investigadores de ciencias sociales diferencias entre variables y atributos. 
+
+**Las variables son los agrupamientos lógicos de atributos**. Mientras que los atributos o valores son las características o cualidades que describen un objeto. La relación entre ambas pueden entenderse en la siguiente tabla (Babbie, 2000:17)
 
 | Variable       | Atributos      |
 |:---------------|:---------------|
@@ -56,6 +58,7 @@ En ciencias sociales **los investigadores entienden por variables a los agrupami
 | Clase social | Clase baja, clase media, clase alta… |
 | Ocupación | Plomero, carpintero, sociólogo, abogado… | 
 
+Al darse esta dupla en la recolección de datos, ya contamos con información, en el sentido de una clara utilidad.
 
 - - - - - - - - - - - - - - - - 
 
@@ -69,15 +72,15 @@ Si compartiera con ustedes el número 18261884, sin contexto alguno (como puro a
 
 Entendiendo cómo funciona una [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), ustedes cuentan con pistas sobre el atributo al que corresponde, lo que es orientar a la utilización de tal número como información sobre algo concreto: La población en Chile. 
 
-Además del dato de la población de Chile, contamos con su superficie. Si dividimos el primer dato por el segundo, obtenemos un tercer dato: [La densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella división es 24,15267252.
+Además del dato de la población de Chile, contamos con su superficie. Si dividimos el primer dato por el segundo, obtenemos [la densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella división es 24,15267252.
 
 Los números 18261884 y 24,15267252 tienen una diferencia que corresponde señalar al momento de disponerlos para su tratamiento en computación: 
 
-- **18261884** es un `int`: Del inglés *integer*.
+- **18261884** es un número entero, un `int` (del inglés *integer*) en varios lenguajes de programación.
 
-- **24,15267252** es un `float`: Del inglés *floating point number*.
+- **24,15267252** es un número de coma flotante, un `float` (del inglés *floating point number*) en varios lenguajes de programación.
 
-Y así como se puden reconocer distintos tipos de número, podemos decir que:
+Y así como se puden reconocer dos tipos de número, podemos decir que:
 
 - **true** es una de dos opciones de dato lógico en un `bool`: Del inglés [*Boolean*](https://es.wikipedia.org/wiki/Tipo_de_dato_l%C3%B3gico). 
 
