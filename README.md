@@ -58,6 +58,8 @@ En la recolección de datos cuantitativos, los investigadores de ciencias social
 | Clase social | Clase baja, clase media, clase alta… |
 | Ocupación | Plomero, carpintero, sociólogo, abogado… | 
 
+Si ponemos atención a las variables utilizadas en distintos estudios, podríamos encontrar fuentes de datos cuantitativos de interés. Tomemos, por ejemplo, el Índice de Calidad de Vida Urbana: [revisemos la presentación del estudio 2018](http://estudiosurbanos.uc.cl/images/investigaciones/Arturo_Orellana/ICVU_2018/20180508_ICVU_2018_-_Version_Definitiva.pdf).
+
 - - - - - - - - - - - - - - - - 
 
 ### TIPOS DE DATOS
