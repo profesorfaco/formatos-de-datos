@@ -12,15 +12,15 @@ Profesor Felipe Cortez / http://profesor.faco.cl / profesor@faco.cl
 
 En castellano, sin computadoras, un **dato es información sobre algo concreto** que permite su conocimiento exacto o sirve para deducir las consecuencias derivadas de un hecho.
 
-También en castellano, con computadoras, un **dato es información dispuesta de manera adecuada para su tratamiento**. Lo que queda muy cerca de una acepción del término inglés *data* que es definida en el [Diccionario Merriam-Webster](https://www.merriam-webster.com/dictionary/data), como: ***information in digital form that can be transmitted or processed***. Acepción que se complejiza en el [Diccionario Oxford](https://en.oxforddictionaries.com/definition/data): ***The quantities, characters, or symbols on which operations are performed by a computer**, which may be stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media*
+También en castellano, con computadoras, un **dato es información dispuesta de manera adecuada para su tratamiento**. Lo que queda muy cerca de una acepción del término inglés *data* que es definida en el [Diccionario Merriam-Webster](https://www.merriam-webster.com/dictionary/data) como: ***information in digital form that can be transmitted or processed***. Definición que se complejiza en el [Diccionario Oxford](https://en.oxforddictionaries.com/definition/data): ***The quantities, characters, or symbols on which operations are performed by a computer**, which may be stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media*
 
-Pero hay una condición de la palabra *data* que la diferencia de nuestra palabra *dato*. A saber: *noun, plural in form but singular or plural in construction, often attributive*. Refiriéndose a esta condición, Phil Izzo (2012) escribe en un artículo del blog de [Wall Street Journal](https://blogs.wsj.com/economics/2012/07/05/is-data-is-or-is-data-aint-a-plural/):
+Pero hay una condición de la palabra *data* que la diferencia de nuestra palabra *dato*. A saber: *noun, plural in form but singular or plural in construction*. Refiriéndose a esta condición, Phil Izzo (2012) escribe en un artículo del blog de [Wall Street Journal](https://blogs.wsj.com/economics/2012/07/05/is-data-is-or-is-data-aint-a-plural/):
 
 > As usage has evolved from the word's origin as the Latin plural of datum, singular [is] used to refer to collections of information: **Little data is available to support the conclusions**.
 > 
 > Otherwise, generally continue to use the plural: **Data are still being collected**.
 
-En la traducción de ambas frases al castellano tendríamos que usar el plural (tenemos pocos datos para apoyar las conclusiones; los datos aún nos están siendo recolectados). Y en plural hay una definición que conviene conocer, la de Russell Ackoff:
+En la traducción de ambas frases al castellano tendríamos que usar el plural (tenemos pocos datos para apoyar las conclusiones; los datos aún están siendo recolectados). Y en plural hay una definición que conviene conocer, la de Russell Ackoff:
 
 > **Data are symbols that represent the properties of objects and events. Information consists of processed data, the processing directed at increasing its usefulness**. For example, census takers collect data. The Bureau of the Census processes that data, converting it into information that is presented in the numerous tables published in the Statistical Abstracts. Like data, information also represents the properties of objects and events, but it does so more compactly and usefully than data. **The difference between data and information is functional, not structural** (1999).
 
@@ -48,15 +48,15 @@ Ahora bien, la posibilidad de análisis estadísticos es una posibilidad de enfo
 
 En la recolección de datos, los investigadores de ciencias sociales diferencian entre variables y atributos; **las variables son los agrupamientos lógicos de atributos**. Mientras que los atributos o valores son las características o cualidades que describen un objeto. La relación entre ambas pueden entenderse en la siguiente tabla (Babbie, 2000:17)
 
-| Variable       | Atributos      |
-|:---------------|:---------------|
-| Género         | Mujer, hombre |
-| Edad          | joven, mediana edad, anciano… |
-| Raza/etnicidad | Caucásico, afroestadounidense, asiático, latino… |
-| Clase social | Clase baja, clase media, clase alta… |
-| Ocupación | Plomero, carpintero, sociólogo, abogado… | 
+| Variable        | Atributos                                        |
+|:----------------|:-------------------------------------------------|
+| Género          | Mujer, hombre                                    |
+| Edad            | joven, mediana edad, anciano…                    |
+| Raza/etnicidad  | Caucásico, afroestadounidense, asiático, latino… |
+| Clase social    | Clase baja, clase media, clase alta…             |
+| Ocupación       | Plomero, carpintero, sociólogo, abogado…         | 
 
-**Si ponemos atención a las variables utilizadas en distintos estudios, podríamos encontrar fuentes de datos cuantitativos de interés**. Revisando, por ejemplo, la [presentación del *Índice de Calidad de Vida Urbana 2018*](http://estudiosurbanos.uc.cl/images/investigaciones/Arturo_Orellana/ICVU_2018/20180508_ICVU_2018_-_Version_Definitiva.pdf), podemos encontrar que dentro de la dimensión de *ambiente de negocios* se considera la variable del *número de cajeros automáticos por cada 10 mil habitantes, enero 2018*; la fuente de tales números, según la presentación, es la [SBIF](https://www.sbif.cl/).
+**Si ponemos atención a las variables utilizadas en distintos estudios, podríamos encontrar fuentes de datos cuantitativos de interés**. Revisando, por ejemplo, la [presentación del *Índice de Calidad de Vida Urbana 2018*](http://estudiosurbanos.uc.cl/images/investigaciones/Arturo_Orellana/ICVU_2018/20180508_ICVU_2018_-_Version_Definitiva.pdf), vemos que dentro de la dimensión de *ambiente de negocios* se considera la variable del *número de cajeros automáticos por cada 10 mil habitantes, enero 2018*; la fuente de tales números, según la presentación, es la [SBIF](https://www.sbif.cl/).
 
 - - - - - - - - - - - - - - - - 
 
