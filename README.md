@@ -62,13 +62,13 @@ En la recolección de datos, los investigadores de ciencias sociales diferencian
 
 ## TIPOS DE DATOS
 
-Si compartiera con ustedes el número 18261884, sin contexto alguno (como puro atributo), resultaría inútil. Pero sería distinto de la siguiente manera: 
+Si compartiera con ustedes el número 18261884, sin contexto alguno, resultaría inútil. Pero sería distinto de la siguiente manera: 
 
 | País      |  Población       | Superficie     |
 |:----------|:-----------------|:---------------|
 | Chile     | 18261884         | 756102         |
 
-Entendiendo cómo funciona una [tabla](http://www.visual-literacy.org/periodic_table/periodic_table.html), ustedes cuentan con pistas sobre el atributo al que corresponde, lo que es orientar a la utilización de tal número como información sobre algo concreto: La población en Chile. 
+Entendiendo cómo funciona una tabla, ustedes cuentan con una clara orientación para la utilización de tal número como información sobre algo concreto: La población en Chile. 
 
 Además del dato de la población de Chile, contamos con su superficie. Si dividimos el primer dato por el segundo, obtenemos [la densidad de la población](https://es.wikipedia.org/wiki/Densidad_de_población) en Chile. El resultado de aquella división es 24,15267252.
 
@@ -78,7 +78,7 @@ Los números 18261884 y 24,15267252 tienen una diferencia que corresponde señal
 
 - **24,15267252** es un número de coma flotante, un `float` (del inglés *floating point number*) en varios lenguajes de programación.
 
-Y así como se puden reconocer dos tipos de número, podemos decir que:
+Y así como se puden reconocer dos tipos de número, podemos reconocer que:
 
 - **true** es una de dos opciones de dato lógico en un `bool`: Del inglés [*Boolean*](https://es.wikipedia.org/wiki/Tipo_de_dato_l%C3%B3gico). 
 
@@ -88,7 +88,7 @@ Podrán notar que en el tipo de dato numérico y booleano no se usaron comillas,
 
 Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](https://es.wikipedia.org/wiki/C%2B%2B) para declarar que una variable que almacenará cierto [tipo de dato](https://beginnersbook.com/2017/08/cpp-data-types/). 
 
-**En el contexto computacional, una variable debe entenderse como un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que son parte.** 
+**En el contexto computacional, una variable debe entenderse como un espacio en la memoria del computador donde se almacenará un dato que puede variar en la ejecución del programa del que sea parte.** 
 
 **Para información respecto de la declaración de los tipos de datos en otros lenguajes de programación, favor consultar:**
 
@@ -103,6 +103,8 @@ Usamos `int`, `bool`, `char` y `float` porque son palabras reservadas en [C++](h
 - Tipos de datos en [Python](https://es.wikipedia.org/wiki/Python) → http://progra.usm.cl/apunte/materia/tipos.html
 
 - Tipos de datos en [Processing](https://es.wikipedia.org/wiki/Processing) → http://processing-spain.blogspot.com/2015/09/42-creando-variables.html
+
+- Tipos de datos en [R](https://es.wikipedia.org/wiki/R_(lenguaje_de_programaci%C3%B3n)) → https://www.statmethods.net/input/datatypes.html
 
 - Tipos de datos en [Ruby](https://es.wikipedia.org/wiki/Ruby) → https://www.geeksforgeeks.org/ruby-data-types/
 
