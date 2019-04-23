@@ -46,7 +46,7 @@ Ahora bien, la posibilidad de análisis estadísticos es una posibilidad de enfo
 
 #### Variables y atributos
 
-En la recolección de datos cuantitativos, los investigadores de ciencias sociales diferencias entre variables y atributos. 
+En la recolección de datos, los investigadores de ciencias sociales diferencias entre variables y atributos. 
 
 **Las variables son los agrupamientos lógicos de atributos**. Mientras que los atributos o valores son las características o cualidades que describen un objeto. La relación entre ambas pueden entenderse en la siguiente tabla (Babbie, 2000:17)
 
