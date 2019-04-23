@@ -20,9 +20,9 @@ Pero hay una condición de la palabra *data* que la diferencia de nuestra palabr
 > 
 > Otherwise, generally continue to use the plural: **Data are still being collected**.
 
-En la traducción de ambas frases al castellano tendríamos que usar el plural (tenemos pocos datos para apoyar las conclusiones; los datos aún nos están siendo recolectados). Y en plural hay una definición que conviene conocer:
+En la traducción de ambas frases al castellano tendríamos que usar el plural (tenemos pocos datos para apoyar las conclusiones; los datos aún nos están siendo recolectados). Y en plural hay una definición que conviene conocer, la de Russell Ackoff:
 
-> **Data are symbols that represent the properties of objects and events. Information consists of processed data, the processing directed at increasing its usefulness**. For example, census takers collect data. The Bureau of the Census processes that data, converting it into information that is presented in the numerous tables published in the Statistical Abstracts. Like data, information also represents the properties of objects and events, but it does so more compactly and usefully than data. **The difference between data and information is functional, not structural**.
+> **Data are symbols that represent the properties of objects and events. Information consists of processed data, the processing directed at increasing its usefulness**. For example, census takers collect data. The Bureau of the Census processes that data, converting it into information that is presented in the numerous tables published in the Statistical Abstracts. Like data, information also represents the properties of objects and events, but it does so more compactly and usefully than data. **The difference between data and information is functional, not structural** (1999).
 
 Tal definición de *data* está a la base de la pirámide DIKW (Data, Information, Knowledge, Wisdom):
 
