@@ -1,6 +1,6 @@
 # Diplomado en Visualización de Datos v.2019
 
-#### Miércoles 24 de abril (18.30 - 21.30 hrs.)
+### Miércoles 24 de abril (18.30 - 21.30 hrs.)
 
 **[DATOS](https://github.com/profesorfaco/datos/blob/gh-pages/README.md#datos) ⇢ [TIPOS DE DATOS](https://github.com/profesorfaco/datos/blob/gh-pages/README.md#tipos-de-datos) ⇢ [DATOS EN JAVASCRIPT](https://github.com/profesorfaco/datos/blob/gh-pages/README.md#datos-en-javascript)**
 
