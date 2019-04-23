@@ -1,8 +1,4 @@
-// Modifica este objeto, con tus propios datos
-// Copia y pega el objeto en la consola
-// Luego escribe yo.saludo()
-
-var yo = {
+var profesor = {
 	nombre: ["Felipe", "Cortez"],
 	apodo: "faco",
 	correo: "profesor@faco.cl",
