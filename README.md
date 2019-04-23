@@ -40,7 +40,7 @@ A lo dicho, podemos agregar apuntes de Babbie (2000), quien señala que la disti
 
 > Cuando usted encomia la belleza de alguien está emitiendo una afirmación cualitativa. **Cuando dice que esa persona tiene "9" en una escala del 1 al 10, trata de cuantificar su aseveración cualitativa** […]. La cuantificación hace más explícitas nuestras observaciones. También facilita congregar y resumir los datos. Más aún, **abre la posibilidad de realizar análisis estadísticos que van de los meros promedios a las fórmulas y modelos matemáticos complejos** (pp. 23-24).
 
-Ahora bien, la posibilidad de análisis estadísticos es una posibilidad de enfoque cuantitativo. Y el origen de la visualización de datos, si lo ubicamos con William Playfair (1759-1923) también tiende a lo estadístico, lo cuantitativo y lo numérico.
+Ahora bien, la posibilidad de análisis estadísticos es una posibilidad de enfoque cuantitativo. Y el origen de la [visualización de datos](http://www.visual-literacy.org/periodic_table/periodic_table.html), si lo ubicamos con William Playfair (1759-1923), también tiende a lo estadístico, lo cuantitativo, lo numérico.
 
 ![W. Playfair](http://www.branchcollective.org/wp-content/uploads/2012/10/SachsFigure1-1024x632.jpg)
 
