@@ -188,4 +188,6 @@ Para avanzar en el uso de datos en JavaScript, y hacer una introducción a las h
 
 - [Datasets - Data.gov](https://catalog.data.gov/dataset?res_format=JSON)
 
+- [Datos del curso - obtenidos de sus respuestas al formulario](https://api.myjson.com/bins/g7ths)
+
 - [USGS - GeoJSON Summary](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
