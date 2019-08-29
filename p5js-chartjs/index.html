@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <!--voy a mezclar 2 bibliotecas de JavaScript, una será p5.js y otra chart.js-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js" integrity="sha256-Uv9BNBucvCPipKQ2NS9wYpJmi8DTOEfTA/nH2aoJALw=" crossorigin="anonymous"></script>
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        
+        canvas {
+            display: block;
+            max-width: 90%;
+            height:auto;
+            padding:0 5%;
+        }
+        
+        img {
+            width: 90%;
+            height:auto;
+            padding:0 5%;
+        }
+
+    </style>
+</head>
+
+<body>
+    <h1>temperature anomalies</h1>
+    <canvas id="calentamientoLineal" width="400" height="200"></canvas>
+    <h2>cognitive anomalies</h2>
+    <a href="https://twitter.com/realdonaldtrump/status/265895292191248385"><img src="trump.png"></a>
+    <script>
+        // Referencia de programación: https://youtu.be/5-ptp9tRApM
+        // Fuente de datos: https://data.giss.nasa.gov/gistemp/
+        var data;
+        var etiquetas = [];
+        var norte = [];
+        var sur = [];
+
+
+        function preload() {
+          //voy a buscar los datos
+            data = loadTable('https://raw.githubusercontent.com/profesorfaco/datos/gh-pages/datos/global-warming.csv', 'csv', 'header');
+        }
+
+        function setup() {
+          //rellenos unos arreglos []
+            noCanvas();
+            for (var i = 0; i < data.getRowCount(); i++) {
+                etiquetas.push(Number(data.get(i, 0)));
+                norte.push(Number(data.get(i, 2)) + 14);
+                sur.push(Number(data.get(i, 3)) + 14);
+
+            }
+          //creo el gráfico con chart.js dentro del setup de p5.js
+            new Chart(document.getElementById('calentamientoLineal').getContext('2d'), {
+                type: 'line',
+                data: {
+                    labels: etiquetas,
+                    datasets: [{
+                        label: 'Hemisferio Norte',
+                        backgroundColor: 'rgba(255, 55, 55,.1)',
+                        borderColor: 'rgb(255, 55, 55)',
+                        borderWidth:2,
+                        pointRadius:2,
+                        data: norte,
+                    }, {
+                        label: 'Hemisferio Sur',
+                        backgroundColor: 'rgba(255, 155, 0,.1)',
+                        borderColor: 'rgb(255, 155, 0)',
+                        borderWidth:2,
+                        pointRadius:2,
+                        data: sur
+                    }]
+                },
+                options: {
+                  scales: {
+                    yAxes: [{
+                      ticks: {
+                        callback: function(value, index, values) {
+                          return value + ' º';
+                        }
+                      }
+                    }]
+                  }
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>
